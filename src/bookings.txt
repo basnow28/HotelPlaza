@@ -1,0 +1,16 @@
+0 2019-11-25 4 Barbara Rekowska +48123456789 Bispevej 12 103 2400 Norrebro Denmark 4 302 -1 CANCELLED 6000.0
+1 2019-11-30 4 Tymoteusz Sikora +48725869175 KubusiaPuchatka 2 1 84-321 Oliwa Poland 5 302 -1 CREATED 6000.0
+2 2019-11-25 3 Barbara Rekowska +48123456799 JanaPawla 10 6 83-123 Kalisz Poland 3 301 -1 CHECKEDOUT 4500.0
+3 2019-11-25 2 Guest1 LastName +12123456789 StreetName 102 12 zipcode neighbourhood Denmark 2 101 -1 CREATED 1000.0
+4 2019-11-25 2 Dagmara Przygocka +48152345678 StreetName 102 13 12-9087 Wrzeszcz Poland 2 102 -1 CREATED 1000.0
+5 2019-11-25 2 FirstName Surname +45789123456 Bispevej 12 202 2300 Amager Denmark 2 103 0 CREATED 1000.0
+6 2019-11-25 2 FirstName Surname +41123456789 StreetName 102 15 Zipcode Norrebro Denmark 4 302 -1 CREATED 3000.0
+7 2019-11-25 2 Joanna Rekowska +48725894135 KubusiaPucharka 14 23 76-234 Oliwa Poland 2 201 -1 CREATED 2000.0
+8 2019-11-25 3 Barbar Rekowska +48132345679 StreetName 102 23 zipcode Neighbourhood Country 2 401 -1 CREATED 0.0
+9 2019-11-25 3 Dagmara Przygocka +45789456123 StreetName 102 33 Zipcode Neighbourhood Country 4 401 -1 CANCELLED 9000.0
+10 2019-11-25 3 FirstName Surname +45789123456 streetName 102 23 Zipcode Neighbourhood Poland 5 401 -1 CANCELLED 9000.0
+11 2019-11-25 5 FirstName Surname +4872145635 StreetName 102 67 Zipcode Neighbourhood Denmark 6 303 -1 CREATED 7500.0
+12 2019-11-27 2 Joel Sorman +45123456789 Bispevej 12 103 2400 Norrebro Denmark 3 302 1 CANCELLED 3000.0
+13 2019-11-26 2 FirstName Surname +45123456789 StreetName 102 3 Zipcode Neighbourhood Poland 2 202 -1 CREATED 2000.0
+14 2019-11-30 5 Dagmara Przygocka 12345678 Huusm 10 1 2700 bron denmark 2 401 2 CANCELLED 15000.0
+15 2019-11-30 5 Dave Hards +451213456789 StreetName 102 3 Zipcode Neighbourhood Country 7 401 -1 CREATED 10.0
